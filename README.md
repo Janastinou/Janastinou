@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janastinou</h1>
-<h3 align="center">Je suis passionnée de backend Javascript avec le framework NodeJS, J'apprends actuellement le C#</h3>
+<h3 align="center">Je suis passionnée de backend Javascript avec le framework NodeJS, J'apprends actuellement le C# et le Python</h3>
 
 <br>
 

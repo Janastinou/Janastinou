@@ -10,7 +10,8 @@
 <details>
   <summary>Projets</summary>
     <br>
-    - Rubidium <br> <img src="https://wakatime.com/badge/github/Janastinou/Rubidium.svg"/>
+    - Rubidium <br> <img src="https://wakatime.com/badge/github/Janastinou/Rubidium.svg"/> <br><br>
+    - Ninecord <br> <img src="https://wakatime.com/badge/github/Janastinou/Ninecord.svg"/> <br><br>
 </details>
 
 <details>
